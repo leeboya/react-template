@@ -32,7 +32,7 @@ A react template with webpack for building your react SPA
 ### 使用
 1. git clone https://github.com/leeboya/react-template.git 或者使用leego-cli来安装
 
-   **强烈建议使用alan-cli安装，极为便捷，使用方法见[alan-cli](https://github.com/leeboya/leego-cli)**  
+   **强烈建议使用leego-cli安装，极为便捷，使用方法见[leego-cli](https://github.com/leeboya/leego-cli)**  
 2. npm install 安装所有开发依赖和打包依赖
 3. npm start 或者 npm run dev 启动开发环境，会自动打开index.html
 4. npm run build 启动打包程序，默认会在项目根目录生产dist文件夹，index.html在dist根目录，其余静态资源放在static文件夹内
