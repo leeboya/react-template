@@ -15,7 +15,7 @@ export default class Hello extends Component {
                 <p className="exp">
                     建议使用 
                     <a className="AHref"
-                        href="https://github.com/alanchenchen/alan-cli"
+                        href="https://github.com/leeboya/leego-cli"
                         target="blank">alacn-cli</a>
                      来构建，极为方便
                 </p>
